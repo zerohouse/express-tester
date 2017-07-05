@@ -1,0 +1,21 @@
+{
+  "name": "express-tester",
+  "version": "1.0.0",
+  "description": "generate express test page",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerohouse/express-tester.git"
+  },
+  "author": "zerohouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerohouse/express-tester/issues"
+  },
+  "homepage": "https://github.com/zerohouse/express-tester#readme"
+}
